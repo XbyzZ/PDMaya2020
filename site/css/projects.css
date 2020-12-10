@@ -1,0 +1,77 @@
+.collapse-btn {
+    display: flex;
+    border: none;
+    /*border-bottom: 1px solid #343a40;*/
+    border-radius: 0;
+    padding: 10px 0px;
+    width: 100%;
+    background: none;
+    align-items: center;
+    outline: none !important;
+}
+
+.collapse-btn:hover {
+    outline: none;
+    color: #007bff !important;
+    outline: none !important;
+
+    /*border-bottom: 1px solid #007bff;*/
+}
+
+.step {
+    background-color: rgba(25, 140, 255, 0.1);
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+    color: #198cff;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    /* line-height: 24px; */
+    align-self: center;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    margin-right: 20px;
+}
+
+.bg-project {
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+    background-image: url(../images/bg-light-about.png);
+    height: calc(100vh - 60px);
+}
+
+#animated-gif {
+    max-width: 540px;
+    max-height: 600px;
+    border-radius: 1%;
+}
+
+
+.preloader {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.1);
+    width: 540px;
+    height: 600px;
+}
+
+#assembly {
+    display: none;
+}
+
+#liquid {
+    display: none;
+}
+
+#simulation_liquid {
+    display: none;
+}
+
+#simulation_steam {
+    display: none;
+}
