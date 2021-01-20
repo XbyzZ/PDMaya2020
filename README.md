@@ -1,2 +1,3 @@
-# PDMaya2020
-Official Maya Project Activity Repository
+# Сайт
+
+Сайт располагается по адресу - https://dmitrymaslov99.github.io/sitePD/index.html
