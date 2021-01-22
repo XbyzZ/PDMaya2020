@@ -11,7 +11,7 @@
 - [Миронов А.Ю.](Pugacheva.md)
 
 
-- [Рахметов Р.Р.](Lukyanenko.md)
+- [Рахметов Р.Р.](Rakhmetov.md)
 
 
 - [Усвяцов А.Д.](Usvyatsov.md)
