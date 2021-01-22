@@ -35,7 +35,7 @@
 - [Баранова А.Ю.](Abashkin.md)
 
 
-- [Соловьева Е.А.](Borisenko.md)
+- [Соловьева Е.А.](Soloviova.md)
 
 
 - [Толкачева А.А.](Evtukhov.md)
