@@ -17,7 +17,7 @@
 - [Усвяцов А.Д.](Usvyatsov.md)
 
 
-- [Толстых С.С.](Churikova.md)
+- [Толстых С.С.](Tolstyh.md)
 
 
 - [Алгаев Ч.Э.](Gainullin.md)
