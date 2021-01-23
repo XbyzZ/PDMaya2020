@@ -1,3 +1,3 @@
 # Сайт
 
-Сайт располагается по адресу - https://dmitrymaslov99.github.io/sitePD/index.html
+Сайт располагается по адресу - http://u1274652.isp.regruhosting.ru/
